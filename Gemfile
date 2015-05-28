@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'spree', github: 'bonobos/spree', branch: '2-2-dev'
-gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-2-stable'
+gem 'spree', '3.0.1'
+gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '3-0-stable'
 
 gemspec
